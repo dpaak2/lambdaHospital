@@ -1,4 +1,4 @@
-package com.hospital.web;
+package com.hospital.web.controller;
 
 import java.util.Map;
 
@@ -21,7 +21,6 @@ import com.hospital.web.domain.Nurse;
 import com.hospital.web.domain.Patient;
 import com.hospital.web.domain.Person;
 import com.hospital.web.mapper.Mapper;
-import com.hospital.web.service.CRUD;
 
 @Controller
 

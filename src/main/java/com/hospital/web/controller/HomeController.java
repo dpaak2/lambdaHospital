@@ -1,4 +1,4 @@
-package com.hospital.web;
+package com.hospital.web.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
